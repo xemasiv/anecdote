@@ -1,0 +1,19 @@
+{
+  "name": "anecdote",
+  "version": "1.0.0",
+  "description": "Shall use:\r * https://www.npmjs.com/package/yargs\r * https://www.npmjs.com/package/inquirer\r * https://www.npmjs.com/package/chalk\r * https://www.npmjs.com/package/simple-git\r * https://www.npmjs.com/package/react-quill\r * https://www.npmjs.com/package/react-highlight.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xemasiv/anecdote.git"
+  },
+  "author": "xemasiv <xemasiv@gmail.com>",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/xemasiv/anecdote/issues"
+  },
+  "homepage": "https://github.com/xemasiv/anecdote#readme"
+}
